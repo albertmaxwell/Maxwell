@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ocean_protal_controller:war">
+    <output-path>$PROJECT_DIR$/../protal/ocean_protal_controller/target</output-path>
+    <root id="archive" name="ocean_protal_controller-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ocean_protal_controller:war exploded" />
+    </root>
+  </artifact>
+</component>

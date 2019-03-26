@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ocean_back_dao" />
+        <module name="ocean_back_service" />
+        <module name="ocean_back_webapp" />
+        <module name="ocean_common" />
+        <module name="ocean_protal_dao" />
+        <module name="ocean_protal_pojo" />
+        <module name="ocean_protal_service" />
+        <module name="ocean_protal_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ocean_back" target="1.5" />
+      <module name="ocean_back_dao" target="1.7" />
+      <module name="ocean_back_service" target="1.7" />
+      <module name="ocean_back_webapp" target="1.7" />
+      <module name="ocean_common" target="1.5" />
+      <module name="ocean_protal_controller" target="1.7" />
+      <module name="ocean_protal_dao" target="1.7" />
+      <module name="ocean_protal_pojo" target="1.7" />
+      <module name="ocean_protal_service" target="1.7" />
+      <module name="ocean_protal_web" target="1.7" />
+      <module name="ocean_protal_webapp" target="1.5" />
+      <module name="ocean_web" target="1.7" />
+      <module name="oceangroupsite" target="1.5" />
+      <module name="protal" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

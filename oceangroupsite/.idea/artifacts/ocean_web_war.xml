@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ocean_web:war">
+    <output-path>$PROJECT_DIR$/../protal/ocean_web/target</output-path>
+    <root id="archive" name="ocean_web.war">
+      <element id="artifact" artifact-name="ocean_web:war exploded" />
+    </root>
+  </artifact>
+</component>

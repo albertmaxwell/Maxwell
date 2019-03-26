@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ocean_back_webapp:war exploded">
+    <output-path>$PROJECT_DIR$/../ocean_back/ocean_back_webapp/target/ocean_back_webapp</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ocean_back_webapp" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="ocean_back_service-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="ocean_back_service" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/../ocean_back/ocean_back_webapp/target/ocean_back_webapp/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="ocean_back_webapp/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../ocean_back/ocean_back_webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../protal/ocean_protal_controller" />
+    <file type="web" url="file://$PROJECT_DIR$/../protal/ocean_protal_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../protal/ocean_protal_webapp" />
+    <file type="web" url="file://$PROJECT_DIR$/../protal/ocean_web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../protal/pom.xml" />
+        <option value="$PROJECT_DIR$/../ocean_back/pom.xml" />
+        <option value="$PROJECT_DIR$/../ocean_common/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8 (1)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
