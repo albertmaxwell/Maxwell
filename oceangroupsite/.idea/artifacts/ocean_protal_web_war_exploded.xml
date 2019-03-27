@@ -10,6 +10,7 @@
           <element id="archive" name="ocean_protal_web-1.0-SNAPSHOT.jar">
             <element id="module-output" name="ocean_protal_web" />
           </element>
+          <element id="library" level="project" name="Maven: com.chinapost:post-manager-service:1.0-SNAPSHOT" />
           <element id="archive" name="ocean_protal_service-1.0-SNAPSHOT.jar">
             <element id="module-output" name="ocean_protal_service" />
           </element>
@@ -37,7 +38,6 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.1.3.RELEASE" />
           <element id="library" level="project" name="Maven: com.github.pagehelper:pagehelper:3.7.5" />
           <element id="library" level="project" name="Maven: com.github.jsqlparser:jsqlparser:0.9.1" />
-          <element id="library" level="project" name="Maven: com.chinapost:post-manager-service:1.0-SNAPSHOT" />
           <element id="library" level="project" name="Maven: commons-fileupload:commons-fileupload:1.3.1" />
           <element id="library" level="project" name="Maven: commons-io:commons-io:2.2" />
           <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.1.3.RELEASE" />
@@ -54,7 +54,7 @@
           <element id="library" level="project" name="Maven: com.jolbox:bonecp-spring:0.8.0.RELEASE" />
           <element id="library" level="project" name="Maven: com.jolbox:bonecp:0.8.0.RELEASE" />
           <element id="library" level="project" name="Maven: com.google.guava:guava:15.0" />
-          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.2" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.8.0-beta2" />
           <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
           <element id="library" level="project" name="Maven: joda-time:joda-time:2.5" />
         </element>
