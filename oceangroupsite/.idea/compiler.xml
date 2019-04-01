@@ -16,16 +16,16 @@
         <module name="ocean_protal_web" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="ocean_back" target="1.5" />
       <module name="ocean_back_dao" target="1.7" />
       <module name="ocean_back_service" target="1.7" />
       <module name="ocean_back_webapp" target="1.7" />
       <module name="ocean_common" target="1.5" />
-      <module name="ocean_protal_dao" target="1.7" />
-      <module name="ocean_protal_pojo" target="1.7" />
-      <module name="ocean_protal_service" target="1.7" />
-      <module name="ocean_protal_web" target="1.7" />
+      <module name="ocean_protal_dao" target="1.5" />
+      <module name="ocean_protal_pojo" target="1.5" />
+      <module name="ocean_protal_service" target="1.5" />
+      <module name="ocean_protal_web" target="1.5" />
       <module name="oceangroupsite" target="1.5" />
       <module name="protal" target="1.5" />
     </bytecodeTargetLevel>
